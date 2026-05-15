@@ -12,4 +12,9 @@ def rearrange_name(name):
         return name
 
     return "{} {}".format(result[2], result[1])
+
+def main():
+    pass
+
+main()
 sys.exit(0)
